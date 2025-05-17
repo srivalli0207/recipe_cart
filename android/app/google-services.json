@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210757928585",
+    "project_id": "recipecart-76966",
+    "storage_bucket": "recipecart-76966.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210757928585:android:b942964417bcb7aa79a858",
+        "android_client_info": {
+          "package_name": "com.sri07.recipe_cart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdWtx2BXQZs4ABX3W7LLc00YugoPnoN14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
