@@ -1,0 +1,2 @@
+/Users/srivallik./AndroidStudioProjects/recipe_cart/android/app/.cxx/RelWithDebInfo/2e323w3v/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/srivallik./AndroidStudioProjects/recipe_cart/android/app/.cxx/RelWithDebInfo/2e323w3v/arm64-v8a/CMakeFiles/rebuild_cache.dir

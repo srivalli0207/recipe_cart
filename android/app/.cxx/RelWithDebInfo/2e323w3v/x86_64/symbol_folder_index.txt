@@ -1,0 +1,1 @@
+/Users/srivallik./AndroidStudioProjects/recipe_cart/build/app/intermediates/cxx/RelWithDebInfo/2e323w3v/obj/x86_64
